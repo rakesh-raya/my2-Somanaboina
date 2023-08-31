@@ -12,3 +12,9 @@ Created as a part of second assignment
 2. Spending time at beaches
 3. Boating through the Arabian sea
 4. Walking through the streets
+
+* Vada pav
+* Dhoklas
+* Falooda
+* Bhel puri
+* Bombay Sandwich
