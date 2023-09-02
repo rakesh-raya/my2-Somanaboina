@@ -5,6 +5,8 @@ I like reading and understanding people. I am not too fond of people getting emo
 ![MyImage](images/MyImage.jpg) I have captured this picture at NWMSU.
 
 ***
+### My sport preferences
+
 In the below table, I'm going to recommend few sports like Cricket, Kabaddi, Badminton and Chess with the reason and the time required to spend per week which must be given a try.
 | Name | Reason | Time recommended |
 | --- | --- | ---: |
