@@ -18,3 +18,5 @@ Created as a part of second assignment
 * Falooda
 * Bhel puri
 * Bombay Sandwich
+
+[MyStats](https://github.com/rakesh-raya/my2-Somanaboina/blob/main/MyStats.md) This file contains interesting facts about me.
