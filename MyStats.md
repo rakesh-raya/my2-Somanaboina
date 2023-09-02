@@ -14,3 +14,10 @@ In the below table, I'm going to recommend few sports like Cricket, Kabaddi, Bad
 | Kabaddi | It helps in developing physical strength and tactics | Atleast 1-2 hrs per week |
 | Badminton | It helps in improving the flexibility and mobility | Atleast 1-3 hrs per week  |
 | Chess | It helps in improving thinking capacity | Atleast 1 hr per week |
+
+***
+### Best Quotes
+
+> The only source of knowledge is experience. - *Albert Einstein*
+
+> Genius is patience. - *Isaac Newton*
