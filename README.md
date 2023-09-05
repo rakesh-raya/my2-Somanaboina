@@ -20,3 +20,37 @@ Created as a part of second assignment
 * Bombay Sandwich
 
 [MyStats](https://github.com/rakesh-raya/my2-Somanaboina/blob/main/MyStats.md) This file contains interesting facts about me.
+
+***
+### My sport preferences
+
+In the below table, I'm going to recommend few sports like Cricket, Kabaddi, Badminton and Chess with the reason and the time required to spend per week which must be given a try.
+| Name | Reason | Time recommended |
+| --- | --- | ---: |
+| Cricket | It develops the skills like leadership, team coordination | Atleast 3-4 hrs per week |
+| Kabaddi | It helps in developing physical strength and tactics | Atleast 1-2 hrs per week |
+| Badminton | It helps in improving the flexibility and mobility | Atleast 1-3 hrs per week  |
+| Chess | It helps in improving thinking capacity | Atleast 1 hr per week |
+
+***
+### Best Quotes
+
+> The only source of knowledge is experience. - *Albert Einstein*
+
+> Genius is patience. - *Isaac Newton*
+
+***
+### Code solution
+
+> Display Current Year in Wordpress ?
+
+Link to stackoverflow question <https://stackoverflow.com/questions/20370582/display-current-year-in-wordpress>
+
+```
+function year_shortcode() {
+  $year = date('Y');
+  return $year;
+}
+add_shortcode('year', 'year_shortcode');
+```
+Link to the snippet source <https://css-tricks.com/snippets/wordpress/year-shortcode/>
